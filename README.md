@@ -5,6 +5,8 @@ FER2013 database <https://www.kaggle.com/c/challenges-in-representation-learning
 
 tensorflow image_retraining example <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/image_retraining>
 
+Waleed Abdulla program for testing with image_retraining (https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6)
+
 emotion_test.py used already trained TF graph (stored in protobuf output_graph.pb file - prepared by retrain.py) and labels from 
 output_labels.txt
 
