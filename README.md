@@ -5,7 +5,7 @@ FER2013 database <https://www.kaggle.com/c/challenges-in-representation-learning
 
 tensorflow image_retraining example <https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/image_retraining>
 
-elsor4do program for image_retrain <https://github.com/eldor4do/TensorFlow-Examples/blob/master/retraining-example.py>
+eldor4do program for image_retrain <https://github.com/eldor4do/TensorFlow-Examples/blob/master/retraining-example.py>
 
 emotion_test.py used already trained TF graph (stored in protobuf output_graph.pb file - prepared by retrain.py) and labels from 
 output_labels.txt
